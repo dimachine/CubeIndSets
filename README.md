@@ -5,7 +5,7 @@ The code and experiment protocols for counting maximal independent sets in the h
 * Part 1. Counting maximal independent sets up to n=6 (https://oeis.org/A284707).
 * Part 2. Computing maximal independent set polynomials up to n=6.
 
-The concept lattices of the contexts (*.cxt) contains all maximal bicliques in the adjacency matrices of n-hypercube Q_n.
+The concept lattices of the contexts (*.cxt) contains all maximal bicliques in the conplemented adjacency matrices of n-hypercube Q_n.
 
 ## References
 
